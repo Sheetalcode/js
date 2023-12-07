@@ -37,3 +37,7 @@ console.log(myObj)
 const myFunction = function() {
     console.log("Hello World")  //functions
 }
+
+
+// stack memory(primitive datatypes)   {objects stored in so many blocks}
+// heap memory(non-primitive datatypes) {objects stored in 1 block}
